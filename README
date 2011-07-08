@@ -1,0 +1,1 @@
+Sample code demonstrating a wrapper of Game Center multiplayer, with a fallback option for when it is not available . More info: http://www.crocodella.com.br/2010/12/creating-a-multiplayer-abstraction-layer-with-gamecenter-and-asyncsocket/
